@@ -1,4 +1,4 @@
-# Lab4 - Apache Kafka
+# Lab3 - Apache Kafka
 
 TP simple sur Apache Kafka avec des exemples de base.
 

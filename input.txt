@@ -1,0 +1,4 @@
+hello world hello hadoop
+big data processing with mapreduce
+hello big data
+mapreduce is powerful for big data
